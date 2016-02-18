@@ -1,4 +1,4 @@
-#Conway's Game of Life [About](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
+#[Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
 ![Game Image](gameoflife.png)
 
 ##Wrote this classic simulation of cellular automaton in Java early 2015.
