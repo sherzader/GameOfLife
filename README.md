@@ -5,8 +5,8 @@
 
 ##To run simulation:
 1. Download .zip file
-2. Navigate to game_of_life folder in your Terminal
-3. Run with the command `java game_of_life`
+2. Navigate to game_of_life folder in your shell terminal
+3. Run with the command `$ java game_of_life`
 
 ###The simulation is a two-dimensional grid of cells. Each cell can either be alive or dead.
 
