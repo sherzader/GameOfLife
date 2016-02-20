@@ -1,8 +1,5 @@
 #[Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
-![Game Image](gameoflife.png)
-
-##Wrote this classic simulation of cellular automaton in Java early 2015.
-###Consists of a grid of cells which update on each tick.
+![Game Image](gameoflife.png =250px)
 
 ##To run simulation:
 1. Download .zip file
@@ -10,7 +7,7 @@
 3. Compile the java program `$javac GameOfLife.java`
 4. Run the program `$java GameOfLife`
 
-###The simulation is a two-dimensional grid of cells. Each cell can either be alive or dead.
+###The simulation is a two-dimensional grid of cells. Each cell can either be alive or dead, which update on each tick.
 
 ###Every second, the grid is updated based on the following Rules:
 1. Any live cell with fewer than two live neighbors dies, as if caused by under-population.
