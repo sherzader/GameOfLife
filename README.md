@@ -1,5 +1,5 @@
 #[Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
-![Game Image](gameoflife.png =250px)
+![Game Image](gameoflife.png =250x)
 
 ##To run simulation:
 1. Download .zip file
